@@ -11,3 +11,8 @@ console.log(lastValue)
 // task 3
 const fourthValue = numbers.at(3)
 console.log(fourthValue)
+
+// task 4
+const secondAndFifthArr = numbers.slice(1, 2).concat(numbers.slice(4, 5))
+// using slice() since it makes a shallow copy and doesn't mutate the original array.
+console.log(secondAndFifthArr)
