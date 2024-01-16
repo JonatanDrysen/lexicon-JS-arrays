@@ -21,3 +21,7 @@ console.log("task 4: ", secondAndFifthArr)
 // task 5
 const numbersLength = numbers.length
 console.log("task 5", numbersLength)
+
+// task 6
+const pushedArr = numbers.push(731)
+console.log("task 6: ", pushedArr) // The return value represents the new length property.
