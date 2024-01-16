@@ -24,4 +24,10 @@ console.log("task 5", numbersLength)
 
 // task 6
 const pushedArr = numbers.push(731)
-console.log("task 6: ", pushedArr) // The return value represents the new length property.
+console.log("task 6: ", pushedArr) 
+// The return value represents the new length property of the array
+
+// task 7
+const unshiftedArr = numbers.unshift(42)
+console.log("task 7: ", unshiftedArr) 
+// The return value also represents the new length property, like arr.push()
