@@ -1,4 +1,5 @@
 const numbers = [2, 6, 12, 7, 22, 35]
+console.log("Original array: ", numbers)
 
 // task 1
 const firstValue = numbers.at(0) // numbers[0] also works
@@ -40,3 +41,6 @@ console.log("task 8: ", poppedArr)
 // task 9
 const shiftedArr = numbers.shift()
 console.log("task 9: ", shiftedArr)
+
+// task 10
+console.log("task 10", numbers) // Wow!!
