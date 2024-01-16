@@ -31,3 +31,8 @@ console.log("task 6: ", pushedArr)
 const unshiftedArr = numbers.unshift(42)
 console.log("task 7: ", unshiftedArr) 
 // The return value also represents the new length property, like arr.push()
+
+// task 8
+const poppedArr = numbers.pop()
+console.log("task 8: ", poppedArr)
+// the return value represents the removed or "popped" value from the array
