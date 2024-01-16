@@ -39,4 +39,4 @@ console.log("task 8: ", poppedArr)
 
 // task 9
 const shiftedArr = numbers.shift()
-console.log("task 8: ", shiftedArr)
+console.log("task 9: ", shiftedArr)
