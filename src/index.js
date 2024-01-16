@@ -7,3 +7,7 @@ console.log(firstValue)
 // task 2
 const lastValue = numbers.at(-1)
 console.log(lastValue)
+
+// task 3
+const fourthValue = numbers.at(3)
+console.log(fourthValue)
