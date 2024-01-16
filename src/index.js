@@ -37,5 +37,6 @@ const poppedArr = numbers.pop()
 console.log("task 8: ", poppedArr)
 // the return value represents the removed or "popped" value from the array
 
+// task 9
 const shiftedArr = numbers.shift()
 console.log("task 8: ", shiftedArr)
